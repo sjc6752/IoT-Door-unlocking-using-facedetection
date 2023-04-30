@@ -15,6 +15,10 @@ NOTE :
 1. Create a ./aws folder and a credentials file for authenticating to AWS. Please reach out to me for ACCESS KEY and SECRET KEY. 
 2. You can also change email ids in face_detection_function for receiving notifications to unlock the door.
 
+RPI SET UP:
+
+Follow the steps in "Rpi set up.txt" in the repo and install all the required packages in Raspberry Pi to execute the project.
+
 EXECUTION :
 
 1. Run ./start.sh file to start running the project.
